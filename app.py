@@ -36,8 +36,6 @@ def preprocess(text):
 # Streamlit UI
 st.title('📧 Spam Email Detection System')
 
-st.write("Prof. Mariya Celin")
-
 st.markdown("### Team Members")
 st.write("""
 - Mateti Karthik
