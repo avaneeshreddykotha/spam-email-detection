@@ -36,14 +36,12 @@ def preprocess(text):
 # Streamlit UI
 st.title('📧 Spam Email Detection System')
 
-st.markdown("### 👨‍🏫 Guided By")
-st.write("Prof. YOUR PROFESSOR NAME")
+st.write("Prof. Mariya Celin")
 
-st.markdown("### 👨‍💻 Team Members")
+st.markdown("### Team Members")
 st.write("""
-- Your Name
-- Team Member 2
-- Team Member 3
+- Mateti Karthik
+- Avaneesh Reddy
 """)
 
 st.write('Enter a message below to check whether it is Spam or Ham.')
